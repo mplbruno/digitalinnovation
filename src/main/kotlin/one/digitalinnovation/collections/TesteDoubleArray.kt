@@ -21,6 +21,7 @@ fun main() {
 
     println("--------------------")
 
+    // Ordenar (sort)
     val salarios2 = doubleArrayOf(1500.0, 1250.0, 500.0)
     salarios2.sort()
     salarios2.forEach {println(it)}
